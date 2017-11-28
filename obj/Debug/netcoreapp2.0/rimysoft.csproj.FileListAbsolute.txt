@@ -1,0 +1,10 @@
+/Users/gianni/Projects/rimysoft/rimysoft/bin/Debug/netcoreapp2.0/rimysoft.deps.json
+/Users/gianni/Projects/rimysoft/rimysoft/bin/Debug/netcoreapp2.0/rimysoft.runtimeconfig.json
+/Users/gianni/Projects/rimysoft/rimysoft/bin/Debug/netcoreapp2.0/rimysoft.runtimeconfig.dev.json
+/Users/gianni/Projects/rimysoft/rimysoft/bin/Debug/netcoreapp2.0/rimysoft.dll
+/Users/gianni/Projects/rimysoft/rimysoft/bin/Debug/netcoreapp2.0/rimysoft.pdb
+/Users/gianni/Projects/rimysoft/rimysoft/obj/Debug/netcoreapp2.0/rimysoft.csproj.CoreCompileInputs.cache
+/Users/gianni/Projects/rimysoft/rimysoft/obj/Debug/netcoreapp2.0/rimysoft.AssemblyInfoInputs.cache
+/Users/gianni/Projects/rimysoft/rimysoft/obj/Debug/netcoreapp2.0/rimysoft.AssemblyInfo.cs
+/Users/gianni/Projects/rimysoft/rimysoft/obj/Debug/netcoreapp2.0/rimysoft.dll
+/Users/gianni/Projects/rimysoft/rimysoft/obj/Debug/netcoreapp2.0/rimysoft.pdb

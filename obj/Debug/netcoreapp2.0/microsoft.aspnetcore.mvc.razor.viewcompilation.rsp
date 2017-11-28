@@ -1,0 +1,14 @@
+/Users/gianni/Projects/rimysoft/rimysoft
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=rimysoft
+--content-root=/Users/gianni/Projects/rimysoft/rimysoft
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/About.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/Contact.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/Error.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/Index.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/Login.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/Register.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/_Layout.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/_ValidationScriptsPartial.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/_ViewImports.cshtml
+--file=/Users/gianni/Projects/rimysoft/rimysoft/Pages/_ViewStart.cshtml
